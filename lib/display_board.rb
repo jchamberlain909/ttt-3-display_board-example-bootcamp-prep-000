@@ -10,3 +10,5 @@ put "   |   |   "
 put "   |   |   "
 
 end
+
+display_board
